@@ -1,0 +1,45 @@
+body,html{
+    font-family: "Tajawal";
+    width: 100%;
+    height: 100%;
+    background: url(./header.jpg) center center no-repeat;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    font-size: 3.3em;
+}
+
+.btn-xl{
+    background-color: #F05F44;
+    border-color: #F05F44;
+    border-radius: 2em;
+    text-transform: uppercase;
+    font-weight: lighter;
+    height: 3em;
+    width: 12em;
+}
+
+.btn-xl:hover{
+    background-color: #F05F44;
+    border-color: #F05F44;
+}
+
+.btn-xl:click{
+    background-color: #F05F44;
+    border-color: #F05F44;
+}
+
+hr{
+    color: #F05F44;
+    border-width: 4px;
+    max-width: 10px;
+    align-items: center;
+}
+
+.div-gap{
+    height: 13em;
+}
+
